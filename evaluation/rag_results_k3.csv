@@ -1,0 +1,13 @@
+query,expected_sections,retrieved_sections,precision,recall,reciprocal_rank,hit,latency_seconds,error
+Recently purchased insurance policy,[2],"[2, 4, 7]",0.3333333333333333,1.0,1.0,1,0.7182136999908835,
+Multiple previous insurance claims,[3],"[3, 2, 4]",0.3333333333333333,1.0,1.0,1,0.20494049997068942,
+Claim amount exceeds vehicle value,[4],"[4, 7, 2]",0.3333333333333333,1.0,1.0,1,0.20630409999284893,
+Delayed reporting of an accident,[5],"[5, 4, 6]",0.3333333333333333,1.0,1.0,1,0.19146420003380626,
+Missing police report and witnesses,[6],"[6, 5, 2]",0.3333333333333333,1.0,1.0,1,0.22755840001627803,
+Discrepancy between claim and repair estimate,[7],"[7, 4, 5]",0.3333333333333333,1.0,1.0,1,0.18748809990938753,
+Statistically unusual insurance claims,[8],"[8, 4, 2]",0.3333333333333333,1.0,1.0,1,0.21859969990327954,
+Human review and automatic claim denial,[9],"[9, 3, 8]",0.3333333333333333,1.0,1.0,1,0.19067829998675734,
+Uncalibrated predictive fraud risk scores,[1],"[1, 9, 8]",0.3333333333333333,1.0,1.0,1,0.18547569995280355,
+AI hallucination and fabricated evidence,[10],"[10, 8, 6]",0.3333333333333333,1.0,1.0,1,0.19285220000892878,
+New policy with multiple previous claims,"[2, 3]","[3, 2, 4]",0.6666666666666666,1.0,1.0,1,0.28716890001669526,
+Delayed reporting and missing police report,"[5, 6]","[5, 6, 2]",0.6666666666666666,1.0,1.0,1,0.17894540005363524,

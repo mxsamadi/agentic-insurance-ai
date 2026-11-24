@@ -1,0 +1,7 @@
+test,routing_correct,validation_correct,error_handling_correct,report_generated,latency_seconds,passed
+Risk assessment,True,True,True,True,5.77,True
+Anomaly detection,True,True,True,True,4.57,True
+Claim investigation,True,True,True,True,6.09,True
+Combined assessment,True,True,True,True,7.22,True
+Comprehensive investigation,True,True,True,True,11.67,True
+Nonexistent claim,True,True,True,True,0.94,True

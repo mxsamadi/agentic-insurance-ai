@@ -1,0 +1,27 @@
+
+# Virtual environment
+.venv/
+
+# API keys and secrets
+.env
+.streamlit/secrets.toml
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Testing cache
+.pytest_cache/
+
+# Trained machine learning models
+*.pkl
+*.joblib
+
+# Vector database
+chroma_db/
+
+# IDE settings
+.vscode/
+
+# Logs
+*.log

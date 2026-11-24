@@ -1,0 +1,98 @@
+
+INSURANCE CLAIM INVESTIGATION GUIDELINES
+
+Document ID: GUIDE-001
+Version: 1.0
+Purpose: Synthetic insurance investigation demonstration.
+
+SECTION 1: RISK ASSESSMENT
+
+Predictive model scores are decision-support indicators.
+A high risk score does not establish fraudulent activity.
+Uncalibrated model scores must not be interpreted as
+actual probabilities of fraud.
+
+SECTION 2: RECENTLY PURCHASED POLICIES
+
+Claims submitted within 90 days of policy inception
+may warrant additional verification.
+
+Recommended actions:
+- Verify policy effective dates.
+- Review coverage details.
+- Confirm the date of the reported incident.
+
+SECTION 3: MULTIPLE PREVIOUS CLAIMS
+
+Multiple previous claims may justify additional review.
+However, frequent claims can have legitimate explanations.
+
+Recommended actions:
+- Review available claim history.
+- Verify the circumstances of previous incidents.
+- Identify potential inconsistencies.
+
+SECTION 4: HIGH CLAIM-TO-VALUE RATIO
+
+Claims exceeding 80 percent of vehicle value may
+require additional financial verification.
+
+Recommended actions:
+- Verify vehicle valuation.
+- Review independent repair estimates.
+- Confirm the extent of reported damage.
+
+SECTION 5: DELAYED CLAIM REPORTING
+
+Reporting delays exceeding 10 days may warrant
+additional investigation.
+
+Recommended actions:
+- Request an explanation for the reporting delay.
+- Verify the incident timeline.
+- Review available supporting documentation.
+
+SECTION 6: MISSING SUPPORTING DOCUMENTATION
+
+Missing police reports or witnesses do not establish
+fraudulent activity.
+
+Recommended actions:
+- Determine whether documentation is applicable.
+- Request available supporting evidence.
+- Consider legitimate explanations for missing records.
+
+SECTION 7: REPAIR COST DISCREPANCIES
+
+Material differences between claimed amounts and
+repair estimates may require financial verification.
+
+Recommended actions:
+- Obtain itemized repair estimates.
+- Review applicable coverage and additional expenses.
+- Verify claimed damages.
+
+SECTION 8: ANOMALY DETECTION
+
+Statistically unusual claims are not necessarily fraudulent.
+Anomaly detection should complement supervised
+predictive models and human judgment.
+
+SECTION 9: HUMAN REVIEW
+
+Elevated risk scores, unusual patterns, and unresolved
+inconsistencies may trigger human investigation.
+
+No claim should be automatically denied based solely
+on predictive models, anomaly detection, business rules,
+or AI-generated recommendations.
+
+SECTION 10: RESPONSIBLE AI
+
+All investigation recommendations must be evidence-based.
+AI systems must not fabricate claim details or evidence.
+Uncertainty and missing information must be disclosed.
+Relevant knowledge base sources should be cited.
+
+These guidelines are fictional and intended exclusively
+for a synthetic data science portfolio demonstration.
