@@ -1,4 +1,15 @@
 
+## Live Demo
+
+[Launch the Interactive AI Platform](https://agentic-insurance-ai.streamlit.app/)
+
+The application provides an interactive environment for
+insurance risk assessment, anomaly detection, and
+multi-agent fraud investigations using synthetic data.
+
+The demo is password-protected. Please contact me
+for demonstration access.
+
 # Agentic AI Insurance Risk & Fraud Detection Platform
 
 An end-to-end multi-agent AI platform that combines
